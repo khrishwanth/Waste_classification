@@ -8,6 +8,7 @@ Convolutional neural networks work by ingesting and processing large amounts of 
 
 ## Architecture of CNN
  CNNs typically consist of three types of layers: a convolutional layer, a pooling layer, and a fully connected layer.
+ ![image alt](https://github.com/khrishwanth/Waste_classification/blob/1c0c6512b56f7f21ae9cba15763150404869cf87/images%20(13).jpeg)
 
  ## Working of CNN model
  To better understand how CNNs work, let’s look at an example
